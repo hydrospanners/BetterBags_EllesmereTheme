@@ -1,0 +1,11 @@
+## Interface: 120007
+## Title: BetterBags - Ellesmere Theme
+## Notes: EllesmereUI-styled theme for BetterBags windows.
+## Author: Hydrospanners
+## Version: 1.0.0
+## Category: Inventory
+## IconTexture: Interface\AddOns\EllesmereUI\media\eg-logo.tga
+## Dependencies: BetterBags
+## OptionalDeps: EllesmereUI
+
+BetterBags_EllesmereTheme.lua
