@@ -161,6 +161,7 @@ local function CreateShell(frame, titleOffsetX, onClose)
     close.icon:SetAlpha(0.7)
     close:SetScript('OnEnter', function(self) self.icon:SetAlpha(0.9) end)
     close:SetScript('OnLeave', function(self) self.icon:SetAlpha(0.7) end)
+    decoration.CloseButton = close
     onClose(close)
   end
 
