@@ -1,4 +1,4 @@
-## Interface: 120100
+## Interface: 120100, 120105
 ## Title: BetterBags - Ellesmere Theme
 ## Notes: EllesmereUI-styled theme for BetterBags windows.
 ## Author: Hydrospanners
